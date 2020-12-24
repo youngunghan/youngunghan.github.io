@@ -20,7 +20,7 @@ title                    : "HYULife"
 title_separator          : "-"
 subtitle                 : Developer Life # site tagline that appears below site title in masthead
 name                     : "youngunghan"
-description              : "An amazing website."
+description              : "眼光紙排徹."
 url                      : "https://youngunghan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "youngung Han"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "철도는 나의 사명."
+  location         : "Gwacheon"
+  email            : yuhan@snu.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
